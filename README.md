@@ -17,4 +17,4 @@ git clone https://github.com/xuhui/sorted_filters
 
 ### Note
 
-Tested with Redmine 2.5.3
+Tested with Redmine 2.5.2
