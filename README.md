@@ -1,15 +1,20 @@
-## sorted_filters
-
-Description goes here
+## Redmine Sort Issue Filters
 
 ### Usage
 
+#### Step 1 -> clone the code
+
 ```
-cd redmine_folder
-
-cd plugins
-
+cd redmine_folder     # go into your redmine folder
+cd plugins            # go into your plugin folder
 git clone https://github.com/xuhui/sorted_filters
 ```
 
-then restart redmine
+#### Step 2 -> Restart
+
+#### Step 3 -> Test in your environment 
+
+
+### Note
+
+Tested with Redmine 2.5.3
