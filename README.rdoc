@@ -2,9 +2,10 @@
 
 Description goes here
 
-## Usage
+== Usage
 
 cd redmine_folder
+
 cd plugins
 
 git clone https://github.com/xuhui/sorted_filters
